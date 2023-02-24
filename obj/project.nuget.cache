@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gj2my/R7TUVXdMAWCAXvbjEdASD/8ts13RMyjGL6t1dZJKvUzvtj2NFhFe1ESzeuzTXum/QiYZepFWQb5599cw==",
+  "success": true,
+  "projectFilePath": "/home/ilya/Стільниця/Algorithms/Algorithms.fsproj",
+  "expectedPackageFiles": [
+    "/home/ilya/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
